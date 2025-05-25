@@ -150,7 +150,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Équipe
 
-- **[Hadjioui Noura]** - *Développeur* - [@username](https://github.com/username)
+- **[Hadjioui Noura]** - *Développeur* - [@username](https://github.com/NOURA-HADJIOUI)
 - **[Lahcine Farah]** - *chef de projet*
 - **[Hinoune Meriem]** - *Designer*
 
