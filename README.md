@@ -92,23 +92,6 @@ npm run web
 3. Attribuez une note de 1 à 5 étoiles
 4. Ajoutez un commentaire optionnel
 
-## 📊 Structure du Projet
-
-```
-meal_plan_app/
-├── src/
-│   ├── components/          # Composants réutilisables
-│   ├── screens/            # Écrans de l'application
-│   ├── navigation/         # Configuration de navigation
-│   ├── services/           # Services API et logique métier
-│   ├── store/             # Gestion d'état global
-│   ├── utils/             # Utilitaires et helpers
-│   └── assets/            # Images, fonts, icônes
-├── docs/                  # Documentation
-├── tests/                 # Tests unitaires et d'intégration
-└── README.md
-```
-
 ## 🧪 Tests
 
 ```bash
@@ -152,7 +135,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 - **[Hadjioui Noura]** - *Développeur* - [@username](https://github.com/NOURA-HADJIOUI)
 - **[Lahcine Farah]** - *chef de projet* [@username](https://github.com/FARAH317)
-- **[Hinoune Meriem]** - *Designer*
+- **[Hinoune Meriem]** - *Designer*[@username](https://github.com/MeriemHN200428)
 
 ## 📞 Support
 
