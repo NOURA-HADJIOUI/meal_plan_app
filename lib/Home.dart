@@ -674,7 +674,7 @@ class HomePage extends StatelessWidget {
       onTap: () {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => const categories()),
+          MaterialPageRoute(builder: (context) => const Categorie()),
         );
       },
       child: CuisineCard(
