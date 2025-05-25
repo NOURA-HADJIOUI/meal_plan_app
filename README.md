@@ -41,7 +41,7 @@ Backend: Firebase
 - Authentification: Firebase Auth
 
 Fonctionnalités:
-- Génération PDF: jsPDF / pdf-lib
+- Génération PDF:  pdf-lib
 - Gestion d'images:  Firebase Storage
 ```
 
@@ -137,11 +137,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **[Lahcine Farah]** - *chef de projet* [@username](https://github.com/FARAH317)
 - **[Hinoune Meriem]** - *Designer*[@username](https://github.com/MeriemHN200428)
 
-## 📞 Support
-
-- 📧 Email: support@menuweek.app
-- 🐛 Issues: [GitHub Issues](https://github.com/username/menuweek-app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/username/menuweek-app/discussions)
 
 ## 🙏 Remerciements
 - [Images par Unsplash](https://unsplash.com/)
