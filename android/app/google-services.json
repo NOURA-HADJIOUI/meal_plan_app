@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "893101703797",
+    "project_id": "weeklymealplanner-9b139",
+    "storage_bucket": "weeklymealplanner-9b139.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893101703797:android:030384fbbe9955af0d6e3c",
+        "android_client_info": {
+          "package_name": "com.example.meal_plan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893101703797-jneshobs057ogkhk5tblv0v97u7epah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkS7uJehxAH4Tc24--xMPpAgbhDRzZ_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893101703797-jneshobs057ogkhk5tblv0v97u7epah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893101703797:android:8b61fc2525c0ffb50d6e3c",
+        "android_client_info": {
+          "package_name": "com.weeklymealplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893101703797-jneshobs057ogkhk5tblv0v97u7epah9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkS7uJehxAH4Tc24--xMPpAgbhDRzZ_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893101703797-jneshobs057ogkhk5tblv0v97u7epah9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
