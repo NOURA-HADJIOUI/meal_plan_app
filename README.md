@@ -53,31 +53,21 @@ Fonctionnalités:
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/username/menuweek-app.git
-cd menuweek-app
+git clone https://github.com/username/meal_plan_app.git
+cd meal_plan_app
 ```
 
 2. **Installer les dépendances**
-```bash
 npm install
-# ou
-yarn install
-```
 
 3. **Configuration de l'environnement**
-```bash
 cp .env.example .env
 # Configurer les variables d'environnement
 ```
 
 4. **Démarrer l'application**
-```bash
 # Pour Android
 npm run android
-
-# Pour iOS
-npm run ios
-
 # Mode développement web
 npm run web
 ```
@@ -105,7 +95,7 @@ npm run web
 ## 📊 Structure du Projet
 
 ```
-menuweek-app/
+meal_plan_app/
 ├── src/
 │   ├── components/          # Composants réutilisables
 │   ├── screens/            # Écrans de l'application
@@ -131,39 +121,27 @@ npm run test:integration
 # Coverage
 npm run test:coverage
 ```
-
-## 📸 Captures d'Écran
-
-| Vue Calendrier | Ajout de Repas | Évaluation |
-|----------------|----------------|------------|
-| ![Calendar](./docs/screenshots/calendar.png) | ![Add Meal](./docs/screenshots/add-meal.png) | ![Rating](./docs/screenshots/rating.png) |
-
 ## 🔄 Roadmap
 
 - [ ] **v1.0** - Fonctionnalités de base
-  - [x] Gestion des repas quotidiens
-  - [x] Vue calendrier
+  - [ ] Gestion des repas quotidiens
+  - [ ] Vue calendrier
   - [ ] Export PDF/Image
   - [ ] Système de notation
 
 - [ ] **v1.1** - Fonctionnalités avancées
   - [ ] Mode aléatoire intelligent
   - [ ] Historique et statistiques
-  - [ ] Synchronisation cloud
-
-- [ ] **v2.0** - Fonctionnalités communautaires
-  - [ ] Partage de menus
-  - [ ] Suggestions basées sur l'IA
-  - [ ] Intégration avec les courses
+  - [ ] Recherche selon choix
 
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! Consultez notre [Guide de Contribution](CONTRIBUTING.md).
 
 1. Fork le projet
-2. Créez une branche feature (`git checkout -b feature/AmazingFeature`)
-3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push vers la branche (`git push origin feature/AmazingFeature`)
+2. Créez une branche feature
+3. Committez vos changements
+4. Push vers la branche 
 5. Ouvrez une Pull Request
 
 ## 📝 Licence
@@ -172,7 +150,9 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Équipe
 
-- **[Votre Nom]** - *Développeur Principal* - [@username](https://github.com/username)
+- **[Hadjioui Noura]** - *Développeur* - [@username](https://github.com/username)
+- **[Lahcine Farah]** - *chef de projet*
+- **[Hinoune Meriem]** - *Designer*
 
 ## 📞 Support
 
@@ -181,11 +161,6 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - 💬 Discussions: [GitHub Discussions](https://github.com/username/menuweek-app/discussions)
 
 ## 🙏 Remerciements
-
-- [Icônes par Heroicons](https://heroicons.com/)
 - [Images par Unsplash](https://unsplash.com/)
-- Communauté React Native
-
----
 
 ⭐ **N'oubliez pas de mettre une étoile si ce projet vous a aidé !**
